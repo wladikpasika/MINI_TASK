@@ -1,0 +1,25 @@
+#container {
+  text-align: center;
+  width: 100%;
+  max-width: 600px;
+  margin: auto;
+  padding: 20px;
+  max-height: 600px;
+  overflow-y: auto;
+}
+
+#container strong {
+  font-size: 20px;
+  line-height: 26px;
+}
+
+#container p {
+  font-size: 16px;
+  line-height: 22px;
+  color: #8c8c8c;
+  margin: 0;
+}
+
+#container a {
+  text-decoration: none;
+}
